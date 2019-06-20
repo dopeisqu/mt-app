@@ -1,8 +1,8 @@
 # mt-app
 
-meituan
+Vue全家桶+SSR+koa2
 
-> My dandy Nuxt.js project
+>MeiTuan Project
 
 ## Build Setup
 
