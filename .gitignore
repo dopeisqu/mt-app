@@ -1,11 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
-
-#Warehouse Language Types
-*.js linguist-language=Vue
-*.css linguist-language=Vue
-*.html linguist-language=Vue
-
 # Logs
 logs
 *.log
