@@ -46,6 +46,8 @@ export default {
       return this.list[this.kind];
     }
   },
+
+  //over通过mouseover事件触发，解决刷新没有数据问题
   async mounted() {
       let self = this;
     let {
