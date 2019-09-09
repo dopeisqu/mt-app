@@ -153,7 +153,7 @@ router.post('/verify',async (ctx,next)=>{
 })
 
 router.get('/exit',async (ctx,next)=>{
-    await ctx.logout()
+    await ctx.logout()  //退出登录
     if(!ctx.isAuthenticated()){
         ctx.body = {
             code:0
